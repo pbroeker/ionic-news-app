@@ -12,9 +12,13 @@
       <ion-title size="large">News</ion-title>
     </ion-toolbar>
   </ion-header>
-  <ion-card *ngFor="let newsItem of news">
-    <ion-card-header>
-      <ion-card-title>{{newsItem.category.name}}</ion-card-title>
-    </ion-card-header>
-  </ion-card>
+
+  <div *ngIf="news; else loading">
+    <div *ngFor="let newsData of news">
+    <!-- <pre>{{newsData | json}}</pre> -->
+      <app-news-card [newsData]="newsData"></app-news-card>
+    </div>
+  </div>
 </ion-content>
+
+<ng-template #loading>Loading news</ng-template>

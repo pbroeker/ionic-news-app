@@ -17,6 +17,7 @@ export class Tab1Page implements OnInit {
 
   getNews(): void {
     this.newsService.getMockNews().subscribe(news => this.news = news);
+    // this.newsService.getNews().subscribe(news => this.news = news);
   } 
 }
 

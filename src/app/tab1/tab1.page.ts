@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { NewsService } from '../services/news.service';
 import { NewsElement } from '../Interfaces';
+import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-tab1',
@@ -17,14 +18,19 @@ export class Tab1Page implements OnInit {
 
   getNews(): void {
     // this.newsService.getMockNews().subscribe(news => this.news = news);
-    this.newsService.getNews().subscribe(
-      response => this.news = response.news
-      .sort((a, b) => {
-        console.log(a.releasedate);
-        let result = new Date(a.releasedate).getTime() - new Date(b.releasedate).getTime() ;
-        // console.log(result);
-        return result;
-      }));
+    this.newsService.getNews()
+    .pipe(
+      map(response => {
+        return response.news
+        .sort((a, b) => {
+            let dateA = Date.parse(a.releasedate); 
+            let dateB = Date.parse(b.releasedate);
+            let result = dateA - dateB;
+            console.log(result);
+            return  result;
+        })})
+    ).subscribe(
+      response => this.news = response);
   } 
 }
 

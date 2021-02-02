@@ -1,12 +1,14 @@
 export interface NewsElement {
+  category: {
+    name: string;
+    iconURL: string;
+  };
+  subtitle: string;
+  imageURLs: {imageURL: string}[];
   title: string;
-  date: string;
-  short: string;
-  icon: NewsIcon;
-  active: boolean;
-}
-
-interface NewsIcon {
-  type: string;
-  url?: string;
+  video: {
+    videoURL: string;
+  };
+  articleID: number;
+  releasedate: string;
 }

@@ -8,7 +8,7 @@ import { NewsElement } from '../Interfaces';
   styleUrls: ['tab1.page.scss']
 })
 export class Tab1Page implements OnInit {
-  news: any;
+  news: NewsElement[];
   constructor(private newsService: NewsService) {}
 
   ngOnInit() {
@@ -16,8 +16,15 @@ export class Tab1Page implements OnInit {
   }
 
   getNews(): void {
-    this.newsService.getMockNews().subscribe(news => this.news = news);
-    // this.newsService.getNews().subscribe(news => this.news = news);
+    // this.newsService.getMockNews().subscribe(news => this.news = news);
+    this.newsService.getNews().subscribe(
+      response => this.news = response.news
+      .sort((a, b) => {
+        console.log(a.releasedate);
+        let result = new Date(a.releasedate).getTime() - new Date(b.releasedate).getTime() ;
+        // console.log(result);
+        return result;
+      }));
   } 
 }
 

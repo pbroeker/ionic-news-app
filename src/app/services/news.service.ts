@@ -21,6 +21,6 @@ export class NewsService {
 
   getMockNews(): Observable<any> {
     return this.http.get<any>(this.mockUrl).pipe(
-      map(val => val.news))
+      map(response => response.news))
   }
 }

@@ -1,13 +1,18 @@
-<ion-card (click)="toggleStatus()">
-  <ion-card-header>
-    <ion-card-title>{{newsData.category.name}}</ion-card-title>
-    <ion-card-subtitle>{{newsData.subtitle}}</ion-card-subtitle>
-    <ion-card-subtitle>{{newsData.releasedate}}</ion-card-subtitle>
-    <!-- <ion-card-subtitle *ngIf="newsData.video; then "></ion-card-subtitle> -->
-  </ion-card-header>
+<ion-card [ngClass]="{'image': contentSelection === 'Image'}" (click)="toggleStatus()">
+    <div class="statusbar" [ngClass]="{'read': readStatus}"></div>
+    <div *ngIf="contentSelection !== 'Image'" class='icon'>
+      <img [src]="contentSource">
+    </div>
+    <div class='content'>
+      <ion-card-header>
+        <ion-card-title>{{newsData.title}}</ion-card-title>
+      </ion-card-header>
+  
+      <ion-card-content>
+        <ion-card-subtitle>{{newsData.subtitle}}</ion-card-subtitle>
+        <ion-card-subtitle>{{newsData.releasedate}}</ion-card-subtitle>
+        <ion-card-subtitle>Content is: {{contentSelection}}</ion-card-subtitle>
+      </ion-card-content>
+    </div>
 </ion-card>
-
-<ng-template #video></ng-template>
-<ng-template #picture></ng-template>
-<ng-template #none></ng-template>
 

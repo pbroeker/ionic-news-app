@@ -12,5 +12,9 @@
       <ion-title size="large">News</ion-title>
     </ion-toolbar>
   </ion-header>
-    {{news | json}}
+  <ion-card *ngFor="let newsItem of news">
+    <ion-card-header>
+      <ion-card-title>{{newsItem.category.name}}</ion-card-title>
+    </ion-card-header>
+  </ion-card>
 </ion-content>

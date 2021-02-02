@@ -1,0 +1,902 @@
+{
+  "news": [
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "A vulnerability makes brute force attacks on encrypted iTunes backups of iOS 10 devices less time-intensive. Apple is aware of the problem - and emphasizes that iCloud backups are not affected.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/mobile-software/Images/Bild1.jpg"
+        },
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/mobile-software/Images/Bild2.jpg"
+        },
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/mobile-software/Images/Bild3.jpg"
+        },
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/mobile-software/Images/Bild4.png"
+        },
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/mobile-software/Images/Bild5.jpg"
+        }
+      ],
+      "title": "Weakened iTunes Backup Encryption: Apple provides fix in prospect",
+      "video": {},
+      "articleID": 15,
+      "releasedate": "29.09.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/phishing.png"
+      },
+      "subtitle": "Worldwide it takes almost half a year until an attack of a hacker is detected, in Europe even almost 1.5 years.",
+      "imageURLs": [],
+      "title": "Hacker have 3 x more time in Europe",
+      "video": {},
+      "articleID": 25,
+      "releasedate": "04.10.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Malware AdultSwine has smuggled itself onto 12 million kids’ devices – complete with pornographic ads and subscription traps.",
+      "imageURLs": [],
+      "title": "Up to 60 kids’ apps infected with malware on Android",
+      "video": {},
+      "articleID": 281,
+      "releasedate": "31.01.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Password.png"
+      },
+      "subtitle": "Way too many Internet users are still being careless when choosing passwords, as the list of 2017’s most popular passwords shows.",
+      "imageURLs": [],
+      "title": "2017’s most-used passwords",
+      "video": {},
+      "articleID": 282,
+      "releasedate": "28.02.2018 00:00:00"
+    },
+    {
+      "imageURLs": [],
+      "title": "Test",
+      "releasedate": "01.03.2018 00:00:00",
+      "video": {},
+      "articleID": 283,
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      }
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Adobe is scrapping Flash Player in 2020 – but you’d be better off getting rid of it now.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-02%20Flash/Unbenannt-1.png"
+        }
+      ],
+      "title": "Another security gap in Flash Player",
+      "video": {},
+      "articleID": 285,
+      "releasedate": "02.03.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "Criminals use fake apps in a bid to extract money from users or push expensive subscriptions or malware onto them.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-11%20Apps/Apps.png"
+        }
+      ],
+      "title": "An ever-increasing number of forged apps: here’s how to recognise them!",
+      "video": {},
+      "articleID": 286,
+      "releasedate": "30.11.2017 00:00:00"
+    },
+    {
+      "imageURLs": [],
+      "title": "test",
+      "releasedate": "08.06.2018 00:00:00",
+      "video": {},
+      "articleID": 329,
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      }
+    },
+    {
+      "imageURLs": [],
+      "title": "Gefährliche WhatsApp-Sicherheitslücke aufgetaucht",
+      "releasedate": "18.10.2018 00:00:00",
+      "video": {},
+      "articleID": 379,
+      "category": {
+        "name": "Cloud",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Cloud.png"
+      }
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "In most parts of the world it takes almost half a year until an attack by a hacker is detected, in Europe even almost 1.5 years.",
+      "imageURLs": [],
+      "title": "Hacker have triple the time in Europe",
+      "video": {},
+      "articleID": 1,
+      "releasedate": "24.09.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "Every second person clicks files on unknown USB sticks they found. With incalculable risks.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/16-09%20USB%20Atom/Nuclear.jpg"
+        }
+      ],
+      "title": "Malicious USB sticks make it to nuclear power plants.",
+      "video": {},
+      "articleID": 3,
+      "releasedate": "08.08.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "President Scam",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Social-Engineering_President-Scam.png"
+      },
+      "subtitle": "The German police informs that criminals have hustled more than 31 million Euro only in northern Germany. The FBI estimates the worldwide damage up to 2.8 billion Euro.",
+      "imageURLs": [],
+      "title": "Millions of booty with president scam",
+      "video": {},
+      "articleID": 4,
+      "releasedate": "08.07.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Video.png"
+      },
+      "subtitle": "\"Secret\" or \"123456\" is far away from being a strong password. We show you how to create secure passwords.",
+      "imageURLs": [],
+      "title": "Video: Creating secure passwords",
+      "video": {
+        "videoURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Videos/304-secure-passwords-en.mp4"
+      },
+      "articleID": 5,
+      "releasedate": "20.09.2015 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Password.png"
+      },
+      "subtitle": "Yahoo E-Mail users are facing a tremendous threat.  A cracked e-mail password means: the hacker can reset almost every password. ",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/16-10%20Yahoo/Yahoo.jpg"
+        }
+      ],
+      "title": "Yahoo Hack is really dangerous for users.",
+      "video": {},
+      "articleID": 12,
+      "releasedate": "12.09.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "The AV-TEST institute registered more than 144 million malicious programs in 2015. This means, that criminal hackers were more active than ever before.",
+      "imageURLs": [],
+      "title": "More malware than ever",
+      "video": {},
+      "articleID": 13,
+      "releasedate": "14.04.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/phishing.png"
+      },
+      "subtitle": "Cyber-criminals start the new year with a very sophisticated and sneaky PayPal phishing attack.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/16-01%20PayPal/Paypal.png"
+        },
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/16-01%20PayPal/Paypal2.png"
+        }
+      ],
+      "title": "Clever Phishing E-Mail",
+      "video": {},
+      "articleID": 14,
+      "releasedate": "15.06.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "President Scam",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Video.png"
+      },
+      "subtitle": "The video shows you, how the \"President Scam\" works and how you can protect yourself.",
+      "imageURLs": [],
+      "title": "That's how fraudster make millions!",
+      "video": {
+        "videoURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Videos/3010-president-scam-en.mp4"
+      },
+      "articleID": 17,
+      "releasedate": "01.03.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Video.png"
+      },
+      "subtitle": "With these tips you see through phishing attacks.",
+      "imageURLs": [],
+      "title": "Video: unmask phishing e-mails",
+      "video": {
+        "videoURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Videos/302-phishing-en.mp4"
+      },
+      "articleID": 18,
+      "releasedate": "17.02.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "President Scam",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Social-Engineering_President-Scam.png"
+      },
+      "subtitle": "One of the world's biggest toys manufacturer  felt prey to a  perfidious social engineering attack - Barbie creator Mattel Inc.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/16-04%20Barbie/Barbie.jpg"
+        }
+      ],
+      "title": "Barbie and Ken pay 3 million Dollar to hackers",
+      "video": {},
+      "articleID": 19,
+      "releasedate": "16.06.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Through an insecure browser add-on, reporters were able to gain access to 3 million surf histories of users, including sensitive medical findings.",
+      "imageURLs": [],
+      "title": "Data trading with surf profiles",
+      "video": {},
+      "articleID": 121,
+      "releasedate": "11.11.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Password.png"
+      },
+      "subtitle": "The Internet dating exchange Adult Friend Finder was stolen a huge database with millions of user data.",
+      "imageURLs": [],
+      "title": "Dating portal loses data of 340 million users ",
+      "video": {},
+      "articleID": 123,
+      "releasedate": "24.11.2016 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "More than 127 million new viruses, Trojans and other malicious software programs were detected on the Internet in 2016.",
+      "imageURLs": [],
+      "title": "No ‘all clear’ on the malware front",
+      "video": {},
+      "articleID": 155,
+      "releasedate": "10.01.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Password.png"
+      },
+      "subtitle": "Keeper Security has published an alarming list of the world’s most frequently used passwords in 2016.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-01-Passwörter%202016/Password_en.jpg"
+        }
+      ],
+      "title": "From \"123456\" to \"987654321\" – the world’s top-ten passwords in 2016",
+      "video": {},
+      "articleID": 157,
+      "releasedate": "26.01.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "If you’re ever asked the question “Can you hear me?” on the phone then you’re better off hanging up, as it could be part of a scam. ",
+      "imageURLs": [],
+      "title": "Telephone fraud: “Can you hear me?”",
+      "video": {},
+      "articleID": 160,
+      "releasedate": "08.02.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "Deceptive ransomware for iOS demands fines via a Bundeskriminalamt (BKA) lock screen when visiting dubious websites.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-02%20Apple%20BKA/iPhone2.png"
+        }
+      ],
+      "title": "Malware for iPhones?",
+      "video": {},
+      "articleID": 161,
+      "releasedate": "27.02.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "The trojan uses a fake login page to request username, PIN and sort code when users open up banking apps.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-02%20Android%20Bankingtrojaner/Unbenannt-1.png"
+        }
+      ],
+      "title": "Dangerous Android trojan taps data from banking apps",
+      "video": {},
+      "articleID": 165,
+      "releasedate": "10.04.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Passwörter",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Password.png"
+      },
+      "subtitle": "Researchers have found some worrying weak points in 1Password, LastPass and other password managers.",
+      "imageURLs": [],
+      "title": "Security gaps in password-manager apps for Android",
+      "video": {},
+      "articleID": 177,
+      "releasedate": "15.03.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Private IT",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Wikileaks has published a list of programs that the CIA can use to attack private devices. The first updates have already been published.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-03-28%20CIA/Unbenannt-1.png"
+        }
+      ],
+      "title": "VLC Player and Notepad++ updates after latest CIA leaks",
+      "video": {},
+      "articleID": 190,
+      "releasedate": "28.03.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "99 per cent of all viruses for mobile devices target Android devices, so you should consider installing a protective app.",
+      "imageURLs": [],
+      "title": "The best protection apps for Android",
+      "video": {},
+      "articleID": 194,
+      "releasedate": "03.05.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Notfall",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Alarm.png"
+      },
+      "subtitle": "Criminals have hacked the download server of the Handbrake video converter and infected the installation file with a Trojan.",
+      "imageURLs": [],
+      "title": "Malware on Apple Macintosh spying on passwords",
+      "video": {},
+      "articleID": 202,
+      "releasedate": "10.05.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "A new ransomware virus is paralysing tens of thousands of computers – but those affected could have been protected since March.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-05%20WannaCry/hospital.jpg"
+        }
+      ],
+      "title": "Cryptolocker spreads itself",
+      "video": {},
+      "articleID": 204,
+      "releasedate": "14.05.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Several popular media players (including VLC, Popcorn Time or Stremio) run malicious codes embedded in subtitle files without a second thought.",
+      "imageURLs": [],
+      "title": "Infection via video subtitles",
+      "video": {},
+      "articleID": 218,
+      "releasedate": "02.06.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Users fail to spot anything for a long time as the malware is hidden in the background.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-06%20Banking/Unbenannt-1.png"
+        }
+      ],
+      "title": "Extremely dangerous online-banking Trojans continue to spread",
+      "video": {},
+      "articleID": 219,
+      "releasedate": "02.10.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "Apps can determine if your iPhone has already been secretly hacked – or become a victim of a so-called “jailbreak”.",
+      "imageURLs": [],
+      "title": "How to check iPhones for security gaps",
+      "video": {},
+      "articleID": 220,
+      "releasedate": "21.08.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "At this year’s hacker competition Pwn20wn, Chrome fared best while Microsoft’s Edge took a beating.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-06%20Browser/Browser.png"
+        }
+      ],
+      "title": "The most secure browsers in 2017",
+      "video": {},
+      "articleID": 221,
+      "releasedate": "09.08.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "Criminals are buying themselves top places in search results for their apps and tricking users into taking out expensive subscriptions.",
+      "imageURLs": [],
+      "title": "Subscription traps in Apple’s App Store!",
+      "video": {},
+      "articleID": 222,
+      "releasedate": "20.06.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "Initially from from the Ukraine, the new ransomware (“Petya”) is now paralysing an increasing number of companies in Western Europe.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-06%20Petya/Petya1.png"
+        }
+      ],
+      "title": "New hacker attack strikes lots of companies from Eastern to Western Europe",
+      "video": {},
+      "articleID": 229,
+      "releasedate": "28.06.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "Developers of the Petya, Mischa and GoldenEye ransomware software have published a master key that can be used to reverse the encryptions.",
+      "imageURLs": [],
+      "title": "Decryption code published for ransomware",
+      "video": {},
+      "articleID": 232,
+      "releasedate": "11.07.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "According to the FBI, toys connected to the Internet put children’s privacy and safety at risk.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-07%20Smart%20Toys/Smarttoys.png"
+        }
+      ],
+      "title": "FBI issues warning about “smart” toys",
+      "video": {},
+      "articleID": 234,
+      "releasedate": "24.07.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "The new blackmail trojan SyncCrypt uses an indirect route via compromised picture files to avoid virus scanners.",
+      "imageURLs": [],
+      "title": "New ransomware hides itself in image files",
+      "video": {},
+      "articleID": 244,
+      "releasedate": "05.09.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "A Russian Internet site is showing live streams from the cameras, which anyone can access due to security gaps.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-09-Cam/Unbenannt-1.png"
+        }
+      ],
+      "title": "Thousands of security cameras openly accessible",
+      "video": {},
+      "articleID": 248,
+      "releasedate": "19.09.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "More than one-tenth of “Avril Lavigne” websites alone carry malware.",
+      "imageURLs": [],
+      "title": "Virus-infested VIP websites",
+      "video": {},
+      "articleID": 249,
+      "releasedate": "17.10.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "Entire corporate networks have already been paralysed in Russia and the Ukraine.",
+      "imageURLs": [],
+      "title": "Dangerous new ransomware “BadRabbit” on the rise",
+      "video": {},
+      "articleID": 251,
+      "releasedate": "26.10.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Affordable spying applications allow jealous people to follow all their respective partner’s activities on his or her device.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/17-11%20Stalkerware/Stalker.png"
+        }
+      ],
+      "title": "Stalkerware: how to recognise spy programs",
+      "video": {},
+      "articleID": 252,
+      "releasedate": "17.11.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Mobile Geräte",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Mobile-Geraete.png"
+      },
+      "subtitle": "All your photos, videos, messages, passwords and other sensitive data are gone. If you lose your smartphone then these are the best things to do.",
+      "imageURLs": [],
+      "title": "Lost your smartphone? What next?",
+      "video": {},
+      "articleID": 261,
+      "releasedate": "13.12.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Bogus offers are piling up on Amazon Marketplace just before Christmas.",
+      "imageURLs": [],
+      "title": "Fake Offers in the Amazon Marketplace",
+      "video": {},
+      "articleID": 267,
+      "releasedate": "20.12.2017 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "According to security researchers, billions of devices such as PCs, notebooks, tablets, smart-phones, etc., have critical vulnerabilities.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-01%20Prozessoren/Unbenannt-1.png"
+        }
+      ],
+      "title": "Serious security vunerabilities emerged in processors",
+      "video": {},
+      "articleID": 273,
+      "releasedate": "04.01.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "More than 40 different Android smartphones affected.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-03%20HandyZH/HandyZH.jpg"
+        }
+      ],
+      "title": "Cheap phones from China with pre-installed Trojans",
+      "video": {},
+      "articleID": 284,
+      "releasedate": "07.03.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "The weak points allow doctored websites to execute malicious codes. Users should update to the latest version quickly.",
+      "imageURLs": [],
+      "title": "Critical security gaps discovered in older versions of Firefox",
+      "video": {},
+      "articleID": 288,
+      "releasedate": "23.03.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "An error means that the digital personal assistant can read out messages or answer questions without the need to unlock devices first.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-03-Siri/Siri.png"
+        }
+      ],
+      "title": "Apple’s Siri is disclosing information even when devices are locked",
+      "video": {},
+      "articleID": 290,
+      "releasedate": "10.04.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/phishing.png"
+      },
+      "subtitle": "A phishing message is currently spreading on Facebook Messenger, tricking recipients into believing they’re about to see a linked video.",
+      "imageURLs": [],
+      "title": "Phishing attacks on Facebook",
+      "video": {},
+      "articleID": 294,
+      "releasedate": "16.04.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "A blackmail Trojan has been adapted to mine for cryptocurrency.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-04-Bitcoin/Bitcoins.png"
+        }
+      ],
+      "title": "Trojans now digging for cryptocurrency",
+      "video": {},
+      "articleID": 303,
+      "releasedate": "26.04.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/phishing.png"
+      },
+      "subtitle": "Perfidious phishing e-mails are catching unsuspecting users through new data protection provisions.",
+      "imageURLs": [],
+      "title": "Phishing e-mails in the name of data protection",
+      "video": {},
+      "articleID": 310,
+      "releasedate": "08.05.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Rather than cracking PGP or S/MIME encryption, the weakness known as ‘Efail’ instead ‘outsmarts’ the software.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-05%20E-Mail/E-Mail.png"
+        }
+      ],
+      "title": "A weak point in e-mail encryption – and how to deal with it",
+      "video": {},
+      "articleID": 317,
+      "releasedate": "17.05.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Phishing",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/phishing.png"
+      },
+      "subtitle": "Since May 25, inboxes have been flooded with data protection e-mails – including from criminals.",
+      "imageURLs": [],
+      "title": "Data protection phishing at record level",
+      "video": {},
+      "articleID": 323,
+      "releasedate": "04.06.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Criminals are using the 2018 World Cup to come up with new tricks and scams.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-06%20WM/WM.png"
+        }
+      ],
+      "title": "Cybercriminals targeting the World Cup",
+      "video": {},
+      "articleID": 331,
+      "releasedate": "15.06.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Internet of unsecure things: attackers can penetrate home networks via Fredi cameras.",
+      "imageURLs": [],
+      "title": "Critical weak point in surveillance cameras",
+      "video": {},
+      "articleID": 334,
+      "releasedate": "27.06.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "You can use these codes to check if your calls are being diverted.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-06%20Handycodes/Codes.png"
+        }
+      ],
+      "title": "Useful smartphone codes that hardly anybody knows",
+      "video": {},
+      "articleID": 336,
+      "releasedate": "17.07.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "A new blackmail scam threatens to publish alleged video evidence.",
+      "imageURLs": [],
+      "title": "Genuine passwords in blackmail e-mails",
+      "video": {},
+      "articleID": 347,
+      "releasedate": "27.07.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Criminals are becoming increasingly professional and using more effective weapons.",
+      "imageURLs": [],
+      "title": "Latest Cyber-Security Figures",
+      "video": {},
+      "articleID": 355,
+      "releasedate": "16.08.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Bluetooth connections vulnerable due to new hacking tool.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-08%20Bluetooth/BT2.jpg"
+        }
+      ],
+      "title": "Large number of Bluetooth connections unsafe",
+      "video": {},
+      "articleID": 362,
+      "releasedate": "29.08.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Ransomware",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Ransomware_Viren.png"
+      },
+      "subtitle": "The ‘Gandcrab’ Trojan is spreading via attachments in fake application e-mails.",
+      "imageURLs": [],
+      "title": "New blackmail Trojan in job applications",
+      "video": {},
+      "articleID": 367,
+      "releasedate": "11.09.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Numerous users have complained of missing programs and files.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-10%20Windows%20Update/WindowsUpdate.jpg"
+        }
+      ],
+      "title": "Data disappears in Windows autumn update",
+      "video": {},
+      "articleID": 376,
+      "releasedate": "09.10.2018 00:00:00"
+    },
+    {
+      "category": {
+        "name": "Allgemein",
+        "iconURL": "https://www.is-fox.de/SecurityInfo/Content/Userfiles/hvs/Thumbnails/Allgemein.png"
+      },
+      "subtitle": "Hackers can use a video call to capture the entire smartphone. Google is dragging its feet.",
+      "imageURLs": [
+        {
+          "imageURL": "https://www.is-fox.de/SecurityInfo/Content/UserFiles/hvs/Images/18-10%20WA/WA.jpg"
+        }
+      ],
+      "title": "Security gaps in WhatsApp still open",
+      "video": {},
+      "articleID": 378,
+      "releasedate": "19.10.2018 00:00:00"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "http://localhost:8100/api": {
+    "target": "https://news-app-2e997.web.app/",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}

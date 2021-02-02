@@ -20,17 +20,16 @@ export class Tab1Page implements OnInit {
     // this.newsService.getMockNews().subscribe(news => this.news = news);
     this.newsService.getNews()
     .pipe(
-      map(response => {
-        return response.news
+      map(response => response.news
         .sort((a, b) => {
-            let dateA = Date.parse(a.releasedate); 
-            let dateB = Date.parse(b.releasedate);
+            let dateA = new Date(a.releasedate).getTime(); 
+            let dateB = new Date(b.releasedate).getTime();
             let result = dateA - dateB;
-            console.log(result);
+            console.log(dateA)
+            // console.log(result)
             return  result;
-        })})
-    ).subscribe(
-      response => this.news = response);
+        }))
+    ).subscribe(response => this.news = response);
   } 
 }
 

@@ -6,14 +6,14 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content *ngIf="news; else loading" [fullscreen]="true">
   <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">News</ion-title>
     </ion-toolbar>
   </ion-header>
 
-  <div *ngIf="news; else loading">
+  <div>
     <div *ngFor="let newsData of news">
     <!-- <pre>{{newsData | json}}</pre> -->
       <app-news-card [newsData]="newsData"></app-news-card>
@@ -21,4 +21,6 @@
   </div>
 </ion-content>
 
-<ng-template #loading>Loading news</ng-template>
+<ng-template #loading>
+  <ion-spinner></ion-spinner>
+</ng-template>
